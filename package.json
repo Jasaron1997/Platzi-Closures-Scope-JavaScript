@@ -1,0 +1,11 @@
+{
+  "name": "scope-closure",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "scode": "node src/scode/index.js"
+  },
+  "author": "José Soto (base a platzi)",
+  "license": "MIT"
+}
