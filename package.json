@@ -1,11 +1,19 @@
 {
   "name": "scope-closure",
   "version": "1.0.0",
-  "description": "",
+  "description": "scode, hoisting, debug y closure",
   "main": "index.js",
   "scripts": {
     "scode": "node src/scode/index.js"
   },
   "author": "José Soto (base a platzi)",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jasaron1997/Plazti-Closures-Scope-JavaScript.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Jasaron1997/Plazti-Closures-Scope-JavaScript/issues"
+  },
+  "homepage": "https://github.com/Jasaron1997/Plazti-Closures-Scope-JavaScript#readme"
 }
